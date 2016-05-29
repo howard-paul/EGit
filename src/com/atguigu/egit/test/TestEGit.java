@@ -4,6 +4,7 @@ public class TestEGit {
   
   public static void main(String[] args){
     System.out.println("hello EGit");
+    System.out.println("server update");
   }
 
 }
